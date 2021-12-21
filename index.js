@@ -65,4 +65,4 @@
 
     });
 
-    Client.login("OTE4OTAwOTkwOTM2MjQwMTc4.YbN_PA.QCwA7W9FC3q6LZ2_px8rYyyXTyY");
+    Client.login("");
